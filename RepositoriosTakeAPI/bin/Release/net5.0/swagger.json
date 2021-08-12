@@ -1,0 +1,107 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "RepositoriosTakeAPI",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/repositoriostake": {
+      "get": {
+        "tags": [
+          "Repositorios"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/RepositorioVM"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/WeatherForecast"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "ImagemVM": {
+      "type": "object",
+      "properties": {
+        "avatar": {
+          "type": "string"
+        }
+      }
+    },
+    "RepositorioVM": {
+      "type": "object",
+      "properties": {
+        "nomeRepositorio": {
+          "type": "string"
+        },
+        "descricao": {
+          "type": "string"
+        },
+        "dataCriacao": {
+          "format": "date-time",
+          "type": "string"
+        },
+        "linguagem": {
+          "type": "string"
+        },
+        "imagem": {
+          "$ref": "#/definitions/ImagemVM"
+        }
+      }
+    },
+    "WeatherForecast": {
+      "type": "object",
+      "properties": {
+        "date": {
+          "format": "date-time",
+          "type": "string"
+        },
+        "temperatureC": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "temperatureF": {
+          "format": "int32",
+          "type": "integer",
+          "readOnly": true
+        },
+        "summary": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

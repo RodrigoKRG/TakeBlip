@@ -1,0 +1,12 @@
+C:\Users\rodrigo.rebes\Documents\me\Take\RepositoriosTakeAPI\RepositoriosTakeAPI\obj\Release\net5.0\PubTmp\Out\RepositoriosTakeAPI.exe
+C:\Users\rodrigo.rebes\Documents\me\Take\RepositoriosTakeAPI\RepositoriosTakeAPI\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\rodrigo.rebes\Documents\me\Take\RepositoriosTakeAPI\RepositoriosTakeAPI\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\rodrigo.rebes\Documents\me\Take\RepositoriosTakeAPI\RepositoriosTakeAPI\obj\Release\net5.0\PubTmp\Out\RepositoriosTakeAPI.dll
+C:\Users\rodrigo.rebes\Documents\me\Take\RepositoriosTakeAPI\RepositoriosTakeAPI\obj\Release\net5.0\PubTmp\Out\RepositoriosTakeAPI.deps.json
+C:\Users\rodrigo.rebes\Documents\me\Take\RepositoriosTakeAPI\RepositoriosTakeAPI\obj\Release\net5.0\PubTmp\Out\RepositoriosTakeAPI.runtimeconfig.json
+C:\Users\rodrigo.rebes\Documents\me\Take\RepositoriosTakeAPI\RepositoriosTakeAPI\obj\Release\net5.0\PubTmp\Out\RepositoriosTakeAPI.pdb
+C:\Users\rodrigo.rebes\Documents\me\Take\RepositoriosTakeAPI\RepositoriosTakeAPI\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\rodrigo.rebes\Documents\me\Take\RepositoriosTakeAPI\RepositoriosTakeAPI\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\rodrigo.rebes\Documents\me\Take\RepositoriosTakeAPI\RepositoriosTakeAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rodrigo.rebes\Documents\me\Take\RepositoriosTakeAPI\RepositoriosTakeAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rodrigo.rebes\Documents\me\Take\RepositoriosTakeAPI\RepositoriosTakeAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
