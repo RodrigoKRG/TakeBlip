@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
-using RepositoriosTakeAPI.Notifications;
 using RepositoriosTakeAPI.ViewModels;
 using System;
 using System.Collections.Generic;
@@ -42,18 +41,15 @@ namespace RepositoriosTakeAPI.Controllers
                         throw new Exception("Não existem repositórios a serem exibidos.");
 
                     }
-                    
+
                     return repositorios;
 
                 }
                 catch (Exception ex)
                 {
-
                     throw new Exception(ex.Message);
                 }
-
             }
         }
-
     }
 }
