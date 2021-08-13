@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5eUvK2ushnuQR/il7Dm48Pha4AhjwqaCIZOre81uQO0JES3F6WBVxx5EuiMbSiFzW87Vzlrcpa2qXv/ro6Ji2w==",
+  "dgSpecHash": "zVjrjUZY4Y1PrbOpSim9MtqZ+P3iu2K3Hicpdix/DyE5EToaf5Wic32JTdetIywr3EYrqMYELypwh3FKeFDFug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rodrigo.rebes\\Documents\\me\\Take\\RepositoriosTakeAPI\\RepositoriosTakeAPI\\RepositoriosTakeAPI.csproj",
+  "projectFilePath": "C:\\Users\\rodrigo.rebes\\Documents\\me\\Take\\challenge\\RepositoriosTakeAPI\\RepositoriosTakeAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rodrigo.rebes\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\rodrigo.rebes\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

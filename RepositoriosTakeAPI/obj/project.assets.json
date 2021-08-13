@@ -236,11 +236,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rodrigo.rebes\\Documents\\me\\Take\\RepositoriosTakeAPI\\RepositoriosTakeAPI\\RepositoriosTakeAPI.csproj",
+      "projectUniqueName": "C:\\Users\\rodrigo.rebes\\Documents\\me\\Take\\challenge\\RepositoriosTakeAPI\\RepositoriosTakeAPI.csproj",
       "projectName": "RepositoriosTakeAPI",
-      "projectPath": "C:\\Users\\rodrigo.rebes\\Documents\\me\\Take\\RepositoriosTakeAPI\\RepositoriosTakeAPI\\RepositoriosTakeAPI.csproj",
+      "projectPath": "C:\\Users\\rodrigo.rebes\\Documents\\me\\Take\\challenge\\RepositoriosTakeAPI\\RepositoriosTakeAPI.csproj",
       "packagesPath": "C:\\Users\\rodrigo.rebes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rodrigo.rebes\\Documents\\me\\Take\\RepositoriosTakeAPI\\RepositoriosTakeAPI\\obj\\",
+      "outputPath": "C:\\Users\\rodrigo.rebes\\Documents\\me\\Take\\challenge\\RepositoriosTakeAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
